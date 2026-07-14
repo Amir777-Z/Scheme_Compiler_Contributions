@@ -2,7 +2,7 @@
 
 Components of a compiler translating Scheme to x86-64 assembly, implemented as part of the Compiler Construction course at Ben-Gurion University of the Negev. The compiler pipeline (reader → tag parser → semantic analysis → code generation, in OCaml, emitting x86 assembly against a runtime library) was provided as a course framework; **this repository contains only the parts we implemented** - the framework itself is course material and is not included, so the repo does not build standalone. Within the full framework, the compiler worked end-to-end: real Scheme programs compiled to executable x86 assembly.
 
-By Galit Oren and [Amir Avital](https://github.com/Amir777-Z).
+By [Galit Oren](https://github.com/galit20) and [Amir Avital](https://github.com/Amir777-Z).
 
 ## What we implemented
 
